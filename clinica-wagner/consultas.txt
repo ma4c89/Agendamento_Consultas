@@ -1,0 +1,43 @@
+
+				CLINICA WAGNE
+Rua: Avenida Elis Regina 	N: 379
+Bairro: Santa Rosa  	Cidade: Uberlandia [MG]
+
+Nome: Marcio Ferreira
+CPF: 12345678911
+Telefone: 12345678977
+E-mail: @
+Data de nascimento: 11/02/2002
+Nome da mãe: Rita
+Nome do pai: Marcio
+Opção escolhida: Exame
+
+				CLINICA WAGNER
+Rua: Avenida Elis Regina 	N: 379
+Bairro: Santa Rosa  	Cidade: Uberlandia [MG]
+
+Nome: marcio
+CPF: 32165498714
+Telefone: 32165498714
+E-mail: marcio@
+Data de nascimento: 11/04/2002
+Nome da mãe: rita
+Nome do pai: marcio
+Opção escolhida: Clinico Geral
+Dr (a): Paulo Souza
+Dia da semana: sergunda
+
+				CLINICA WAGNER
+Rua: Avenida Elis Regina 	N: 379
+Bairro: Santa Rosa  	Cidade: Uberlandia [MG]
+
+Nome: allex
+CPF: 00102345678
+Telefone: 38967750413
+E-mail: teste@gmail.com
+Data de nascimento: 02/10/1970
+Nome da mãe: teste
+Nome do pai: teste1
+Opção escolhida: Psiquiatra
+Dr (a): Helena
+Dia da semana: 02
