@@ -13,7 +13,7 @@
   Nome, CPF, telefone, e-mail, entre outros.
 
 - 🩺 <strong>Seleção de especialidade médica</strong>  
-  O usuário escolhe a especialidade desejada (ex: cardiologia, dermatologia...).
+  O usuário escolhe a especialidade desejada (ex: Clinico geral,Psiquiatra,Otorrinolaringologista...).
 
 - 👨‍⚕️ <strong>Escolha de médico</strong>  
   Exibe a lista de médicos disponíveis para a especialidade selecionada.
